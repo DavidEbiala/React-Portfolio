@@ -1,4 +1,5 @@
 import React from 'react';
+import Logo from '../utils/image';
 
 export default function Home() {
   return (
